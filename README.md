@@ -9,7 +9,7 @@ Primer Challenge de la especialización BackEnd del programa Oracle Next Educati
 <h2>Tecnologías</h2>
 <ul>
   <li>Java 8</li>
-  <l1>Librería Java Swing</l1>
+  <li>Librería Java Swing</li>
 </ul>
 
 <h2> Autores </h2>
