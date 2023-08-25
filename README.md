@@ -1,17 +1,59 @@
-# Conversor
-Primer Challenge de la especialización BackEnd del programa Oracle Next Education, Conversor de moneda
 
-<em> Conversor de Moneda - Primer Challenge de Backend del programa OracleNextEducation </em> 
+
+# Currency Converter - Challenge #2 of the Oracle Next Education program.
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
-<p>El proyecto consiste en construir un conversor de moneda que pueda realizar el cambio de pesos Colombianos a Dólares, Euros, libras Esterlinas, Yen Japonés y Won sur-corenao y viceversa.</p>
-<p>El challenge hace parte de la especialziación de Backend en Java y Spring del programa de Oracle Next Education </p>
 
-<h2>Tecnologías</h2>
-<ul>
-  <li>Java 8</li>
-  <li>Librería Java Swing</li>
-</ul>
+## Table of contents
 
-<h2> Autores </h2>
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
-<p> Juan Pablo Cuartas Gallego </p>
+
+
+## Overview
+
+### The challenge
+
+The project involves building a currency converter that can perform the conversion between Colombian Pesos to US Dollars, Euros, British Pounds, Japanese Yen, and South Korean Won, as well as the reverse conversion.
+
+- There should be a dropdown list with the possible exchange rates.
+- The user should be informed when the program finishes.
+- In case an incorrect value is entered, the user should be informed to input a valid value.
+
+### Screenshot
+
+![](./imagenesReadme/valor.JPG)
+
+![](./imagenesReadme/valor2.JPG)
+
+![](./imagenesReadme/valor3.JPG)
+
+![](./imagenesReadme/valor4.JPG)
+
+## My process
+
+### Built with
+
+- Java 17
+- Java Swing - Java Library
+
+
+### What I learned
+
+Aprendí un poco de la libreria de Java Swing y como realizar projectos con buenas practicas de OOP.
+
+## Author
+
+- LinkedIn - [Juan Pablo Cuartas](https://www.your-site.com)
+- Email - [juanpa88842@gmail.com](https://www.linkedin.com/in/juanpablocuartas/)
+
+
+
+
+
+
